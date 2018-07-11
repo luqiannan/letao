@@ -1,0 +1,17 @@
+body {
+    background: #222d32;
+}
+
+/* * {
+    color:#fff;
+} */
+
+.mt_150 {
+    margin-top: 150px;
+    color:#fff;
+}
+
+.panel-body {
+    color:#000;
+}
+
